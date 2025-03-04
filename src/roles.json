@@ -2019,6 +2019,32 @@
     "reminders": ["Amigo"],
     "setup": false,
     "ability": "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+  },
+  {
+    "id": "nyarlathotep",
+    "name": "Nyarlathotep",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 18,
+    "firstNightReminder": "Nyarlathotep picks a player. Choose hallucination.",
+    "otherNight": 8,
+    "otherNightReminder": "Nyarlathotep picks a player. Choose hallucination.",
+    "reminders": ["Hallucinations"],
+    "setup": false,
+    "ability": "Each night, choose a player. That player might hallucinate."
+  },
+  {
+    "id": "dagon",
+    "name": "Dagon",
+    "edition": "",
+    "team": "demon",
+    "firstNight": 25,
+    "firstNightReminder": "Dagon picks 2 players. Tell them that.",
+    "otherNight": 33,
+    "otherNightReminder": "Dagon picks 2 players. Tell them that.",
+    "reminders": ["Mad", "Mad", "Dead", "Dead"],
+    "setup": false,
+    "ability": "Each night, choose 2 players. They learn it. Tomorrow night one of them will die. If one or both of them are mad about being chosen, both die."
   }
 ]
 
